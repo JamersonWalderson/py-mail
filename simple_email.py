@@ -5,8 +5,8 @@ from email.MIMEText import MIMEText
 ##############################################
 # You fill out the following variables 
 # and let Python do the rest...
-fromaddr = "andoverace10@gmail.com"
-password = "gobigblue"
+fromaddr = ""
+password = ""
 toaddr = ""  # WARNING: change this
 subject = "Sample Subject"
 body = "Sample body"
